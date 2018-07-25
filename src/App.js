@@ -13,7 +13,6 @@ class App extends Component {
     return (
       <div>
         <Header/>
-        <div>Hola</div>
         <Content/>
         <Footer/>
       </div>
